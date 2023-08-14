@@ -1,0 +1,587 @@
+[
+  {
+    "type": "programming",
+    "setup": "What's the best thing about a Boolean?",
+    "punchline": "Even if you're wrong, you're only off by a bit."
+  },
+  {
+    "type": "programming",
+    "setup": "What's the object-oriented way to become wealthy?",
+    "punchline": "Inheritance"
+  },
+  {
+    "type": "programming",
+    "setup": "Where do programmers like to hangout?",
+    "punchline": "The Foo Bar."
+  },
+  {
+    "type": "programming",
+    "setup": "Why did the programmer quit his job?",
+    "punchline": "Because he didn't get arrays."
+  },
+  {
+    "type": "programming",
+    "setup": "Why do programmers always mix up Halloween and Christmas?",
+    "punchline": "Because Oct 31 == Dec 25"
+  },
+  {
+    "type": "programming",
+    "setup": "A SQL query walks into a bar, walks up to two tables and asks...",
+    "punchline": "'Can I join you?'"
+  },
+  {
+    "type": "programming",
+    "setup": "How many programmers does it take to change a lightbulb?",
+    "punchline": "None that's a hardware problem"
+  },
+  {
+    "type": "programming",
+    "setup": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program",
+    "punchline": "the rest of them will write Perl"
+  },
+  {
+    "type": "programming",
+    "setup": "['hip', 'hip']",
+    "punchline": "(hip hip array)"
+  },
+  {
+    "type": "programming",
+    "setup": "To understand what recursion is...",
+    "punchline": "You must first understand what recursion is"
+  },
+  {
+    "type": "programming",
+    "setup": "There are 10 types of people in this world...",
+    "punchline": "Those who understand binary and those who don't"
+  },
+  {
+    "type": "programming",
+    "setup": "Which song would an exception sing?",
+    "punchline": "Can't catch me - Avicii"
+  },
+  {
+    "type": "programming",
+    "setup": "Why do Java programmers wear glasses?",
+    "punchline": "Because they don't C#."
+  },
+  {
+    "type": "programming",
+    "setup": "How do you check if a webpage is HTML5?",
+    "punchline": "Try it out on Internet Explorer"
+  },
+  {
+    "type": "programming",
+    "setup": "Lady: How do I spread love in this cruel world?",
+    "punchline": "Random Dude: [...\ud83d\udc98]"
+  },
+  {
+    "type": "programming",
+    "setup": "A user interface is like a joke.",
+    "punchline": "If you have to explain it then it is not that good."
+  },
+  {
+    "type": "programming",
+    "setup": "I was gonna tell you a joke about UDP...",
+    "punchline": "...but you might not get it."
+  },
+  {
+    "type": "programming",
+    "setup": "The punchline often arrives before the set-up.",
+    "punchline": "Do you know the problem with UDP jokes?"
+  },
+  {
+    "type": "programming",
+    "setup": "Why do C# and Java developers keep breaking their keyboards?",
+    "punchline": "Because they use a strongly typed language."
+  },
+  {
+    "type": "programming",
+    "setup": "Knock-knock.",
+    "punchline": "A race condition. Who is there?"
+  },
+  {
+    "type": "programming",
+    "setup": "What's the best part about TCP jokes?",
+    "punchline": "I get to keep telling them until you get them."
+  },
+  {
+    "type": "programming",
+    "setup": "A programmer puts two glasses on his bedside table before going to sleep.",
+    "punchline": "A full one, in case he gets thirsty, and an empty one, in case he doesn\u2019t."
+  },
+  {
+    "type": "programming",
+    "setup": "There are 10 kinds of people in this world.",
+    "punchline": "Those who understand binary, those who don't, and those who weren't expecting a base 3 joke."
+  },
+  {
+    "type": "programming",
+    "setup": "What did the router say to the doctor?",
+    "punchline": "It hurts when IP."
+  },
+  {
+    "type": "programming",
+    "setup": "An IPv6 packet is walking out of the house.",
+    "punchline": "He goes nowhere."
+  },
+  {
+    "type": "programming",
+    "setup": "A DHCP packet walks into a bar and asks for a beer.",
+    "punchline": "Bartender says, \"here, but I\u2019ll need that back in an hour!\""
+  },
+  {
+    "type": "programming",
+    "setup": "3 SQL statements walk into a NoSQL bar. Soon, they walk out",
+    "punchline": "They couldn't find a table."
+  },
+  {
+    "type": "programming",
+    "setup": "What\u2019s the object-oriented way to become wealthy?",
+    "punchline": "Inheritance."
+  },
+  {
+    "type": "programming",
+    "setup": "Why dot net developers don't wear glasses?",
+    "punchline": "Because they see sharp."
+  },
+  {
+    "type": "programming",
+    "setup": "What did the Java code say to the C code?",
+    "punchline": "You've got no class."
+  },
+  {
+    "type": "programming",
+    "setup": "What is the most used language in programming?",
+    "punchline": "Profanity."
+  },
+  {
+    "type": "programming",
+    "setup": "Why do programmers always get Christmas and Halloween mixed up?",
+    "punchline": "Because DEC 25 = OCT 31"
+  },
+  {
+    "type": "programming",
+    "setup": "What goes after USA?",
+    "punchline": "USB."
+  },
+  {
+    "type": "programming",
+    "setup": "A male developer often gets called as a Dev, then what would you call a female developer?",
+    "punchline": "Devi."
+  },
+  {
+    "type": "programming",
+    "setup": "Where did the API go to eat?",
+    "punchline": "To the RESTaurant."
+  },
+  {
+    "type": "programming",
+    "setup": "Hey, wanna hear a joke?",
+    "punchline": "Parsing HTML with regex."
+  },
+  {
+    "type": "programming",
+    "setup": "I just got fired from my job at the keyboard factory.",
+    "punchline": "They told me I wasn't putting in enough shifts."
+  },
+  {
+    "setup": "Why is Linux safe?",
+    "punchline": "Hackers peak through Windows only."
+  },
+  {
+    "setup": "Why did the web developer walk out of a resturant in disgust?",
+    "punchline": "The seating was laid out in tables."
+  },
+  {
+    "setup": "The six stages of debugging: 1. That can't happen. 2. That doesn't happen on my machine. 3. That shouldn't happen. 4. Why does that happen? 5. Oh, I see. 6. How did that ever work?",
+    "punchline": ""
+  },
+  {
+    "setup": "What do you call a group of 8 Hobbits?",
+    "punchline": "A Hobbyte."
+  },
+  {
+    "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+    "punchline": "Because 7 8 9 A?"
+  },
+  {
+    "setup": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+    "punchline": ""
+  },
+  {
+    "setup": "What's the object-oriented way to become wealthy?",
+    "punchline": "Inheritance."
+  },
+  {
+    "setup": "A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+    "punchline": ""
+  },
+  {
+    "setup": "\"Honey, go to the store and buy some eggs.\" \"OK.\" \"Oh and while you're there, get some milk.\" He never returned.",
+    "punchline": ""
+  },
+  {
+    "setup": "What is the best prefix for global variables?",
+    "punchline": "//"
+  },
+  {
+    "setup": "Why did the programmer jump on the table?",
+    "punchline": "Because debug was on his screen."
+  },
+  {
+    "setup": "Four engineers get into a car. The car won't start. The Mechanical engineer says \"It's a broken starter\". The Electrical engineer says \"Dead battery\". The Chemical engineer says \"Impurities in the gasoline\". The IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+    "punchline": ""
+  },
+  {
+    "setup": "Why was the JavaScript developer sad?",
+    "punchline": "Because they didn't Node how to Express themself!"
+  },
+  {
+    "setup": "Why are Assembly programmers always soaking wet?",
+    "punchline": "They work below C-level."
+  },
+  {
+    "setup": "Why did the functional programmer get thrown out of school?",
+    "punchline": "Because he refused to take classes."
+  },
+  {
+    "setup": "How can you tell an extroverted programmer?",
+    "punchline": "He looks at YOUR shoes when he's talking."
+  },
+  {
+    "setup": "What do you call a group of 8 Hobbits?",
+    "punchline": "A Hobbyte."
+  },
+  {
+    "setup": "Debugging: Removing the needles from the haystack.",
+    "punchline": ""
+  },
+  {
+    "setup": "Why do programmers wear glasses?",
+    "punchline": "Because they need to C#"
+  },
+  {
+    "setup": "Why is Linux safe?",
+    "punchline": "Hackers peak through Windows only."
+  },
+  {
+    "setup": "Why did the Python programmer not respond to the foreign mails he got?",
+    "punchline": "Because his interpreter was busy collecting garbage."
+  },
+  {
+    "setup": "Why do programmers prefer using the dark mode?",
+    "punchline": "Because light attracts bugs."
+  },
+  {
+    "setup": "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday.",
+    "punchline": ""
+  },
+  {
+    "setup": "A guy walks into a bar and asks for 1.4 root beers. The bartender says \"I'll have to charge you extra, that's a root beer float\". The guy says \"In that case, better make it a double.\"",
+    "punchline": ""
+  },
+  {
+    "setup": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+    "punchline": ""
+  },
+  {
+    "setup": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+    "punchline": ""
+  },
+  {
+    "setup": "A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+    "punchline": ""
+  },
+  {
+    "setup": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
+    "punchline": "A regular expression."
+  },
+  {
+    "setup": "What is the best prefix for global variables?",
+    "punchline": "//"
+  },
+  {
+    "setup": "What is the most used language in programming?",
+    "punchline": "Profanity."
+  },
+  {
+    "setup": "Knock knock. Who's there? Recursion. Recursion who? Knock knock.",
+    "punchline": ""
+  },
+  {
+    "setup": "Hey, wanna hear a joke?",
+    "punchline": "Parsing HTML with regex."
+  },
+  {
+    "setup": "Why did the programmer quit his job?",
+    "punchline": "Because he didn't get arrays."
+  },
+  {
+    "setup": "How many programmers does it take to screw in a light bulb?",
+    "punchline": "None. It's a hardware problem."
+  },
+  {
+    "setup": "\"Knock, knock.\" \"Who's there?\"  [very long pause]  \"Java.\"",
+    "punchline": ""
+  },
+  {
+    "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+    "punchline": "Because 7 8 9 A?"
+  },
+  {
+    "setup": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+    "punchline": ""
+  },
+  {
+    "setup": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+    "punchline": ""
+  },
+  {
+    "setup": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+    "punchline": ""
+  },
+  {
+    "setup": "What do you call a developer who doesn't comment code?",
+    "punchline": "A developer."
+  },
+  {
+    "setup": "How do you generate a random string?",
+    "punchline": "Put a Windows user in front of Vim and tell them to exit."
+  },
+  {
+    "setup": "What do you call a group of 8 Hobbits?",
+    "punchline": "A Hobbyte."
+  },
+  {
+    "setup": "Why are Assembly programmers always soaking wet?",
+    "punchline": "They work below C-level."
+  },
+  {
+    "setup": "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday.",
+    "punchline": ""
+  },
+  {
+    "setup": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+    "punchline": ""
+  },
+  {
+    "setup": "Two C strings walk into a bar. The bartender asks \"What can I get ya?\" The first string says \"I'll have a gin and tonic.\" The second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\" The first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+    "punchline": ""
+  },
+  {
+    "setup": "Why did the database administrator leave his wife?",
+    "punchline": "She had one-to-many relationships."
+  },
+  {
+    "setup": "Four engineers get into a car. The car won't start. The Mechanical engineer says \"It's a broken starter\". The Electrical engineer says \"Dead battery\". The Chemical engineer says \"Impurities in the gasoline\". The IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+    "punchline": ""
+  },
+  {
+    "setup": "ASCII silly question, get a silly ANSI.",
+    "punchline": ""
+  },
+  {
+    "setup": "\"Honey, go to the store and buy some eggs.\" \"OK.\" \"Oh and while you're there, get some milk.\" He never returned.",
+    "punchline": ""
+  },
+  {
+    "setup": "why do python programmers wear glasses?",
+    "punchline": "Because they can't C."
+  },
+  {
+    "setup": "What is a dying programmer's last program?",
+    "punchline": "Goodbye, world!"
+  },
+  {
+    "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+    "punchline": "Because 7 8 9 A?"
+  },
+  {
+    "setup": "Why do programmers wear glasses?",
+    "punchline": "Because they need to C#"
+  },
+  {
+    "setup": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+    "punchline": ""
+  },
+  {
+    "setup": "Why was the JavaScript developer sad?",
+    "punchline": "Because they didn't Node how to Express themself!"
+  },
+  {
+    "setup": "Hey baby I wish your name was asynchronous...",
+    "punchline": "... so you'd give me a callback."
+  },
+  {
+    "setup": "What's the object-oriented way to become wealthy?",
+    "punchline": "Inheritance."
+  },
+  {
+    "setup": "Why did the programmer jump on the table?",
+    "punchline": "Because debug was on his screen."
+  },
+  {
+    "setup": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+    "punchline": ""
+  },
+  {
+    "setup": "A byte walks into a bar looking miserable. The bartender asks it: \"What's wrong buddy?\" \"Parity error.\" it replies.  \"Ah that makes sense, I thought you looked a bit off.\"",
+    "punchline": ""
+  },
+  {
+    "setup": "Knock knock. Who's there? Recursion. Recursion who? Knock knock.",
+    "punchline": ""
+  },
+  {
+    "setup": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+    "punchline": ""
+  },
+  {
+    "setup": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+    "punchline": ""
+  },
+  {
+    "setup": "Debugging: Removing the needles from the haystack.",
+    "punchline": ""
+  },
+  {
+    "setup": "Why is Linux safe?",
+    "punchline": "Hackers peak through Windows only."
+  },
+  {
+    "setup": "What is a dying programmer's last program?",
+    "punchline": "Goodbye, world!"
+  },
+  {
+    "setup": "Why did the Python programmer not respond to the foreign mails he got?",
+    "punchline": "Because his interpreter was busy collecting garbage."
+  },
+  {
+    "setup": "A guy walks into a bar and asks for 1.4 root beers. The bartender says \"I'll have to charge you extra, that's a root beer float\". The guy says \"In that case, better make it a double.\"",
+    "punchline": ""
+  },
+  {
+    "setup": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+    "punchline": ""
+  },
+  {
+    "setup": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+    "punchline": ""
+  },
+  {
+    "setup": "How can you tell an extroverted programmer?",
+    "punchline": "He looks at YOUR shoes when he's talking."
+  },
+  {
+    "setup": "A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+    "punchline": ""
+  },
+  {
+    "setup": "\"Knock, knock.\" \"Who's there?\"  [very long pause]  \"Java.\"",
+    "punchline": ""
+  },
+  {
+    "setup": "How do you tell HTML from HTML5? - Try it out in Internet Explorer - Did it work? - No? - It's HTML5.",
+    "punchline": ""
+  },
+  {
+    "setup": "What is the best prefix for global variables?",
+    "punchline": "//"
+  },
+  {
+    "setup": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+    "punchline": ""
+  },
+  {
+    "setup": "Why does no one like SQLrillex?",
+    "punchline": "He keeps dropping the database."
+  },
+  {
+    "setup": "How do you generate a random string?",
+    "punchline": "Put a Windows user in front of Vim and tell them to exit."
+  },
+  {
+    "setup": "ASCII silly question, get a silly ANSI.",
+    "punchline": ""
+  },
+  {
+    "setup": "Why do Java programmers hate communism?",
+    "punchline": "They don't want to live in a classless society."
+  },
+  {
+    "setup": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+    "punchline": ""
+  },
+  {
+    "setup": "Why do they call it hyper terminal?",
+    "punchline": "Too much Java."
+  },
+  {
+    "setup": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+    "punchline": ""
+  },
+  {
+    "setup": "Debugging: Removing the needles from the haystack.",
+    "punchline": ""
+  },
+  {
+    "setup": "What is a dying programmer's last program?",
+    "punchline": "Goodbye, world!"
+  },
+  {
+    "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+    "punchline": "An Al-Gore-ithm."
+  },
+  {
+    "setup": "How many programmers does it take to screw in a light bulb?",
+    "punchline": "None. It's a hardware problem."
+  },
+  {
+    "setup": "Why did the web developer walk out of a resturant in disgust?",
+    "punchline": "The seating was laid out in tables."
+  },
+  {
+    "setup": ".NET developers are picky when it comes to food.",
+    "punchline": "They only like chicken NuGet."
+  },
+  {
+    "setup": "Why was the JavaScript developer sad?",
+    "punchline": "Because they didn't Node how to Express themself!"
+  },
+  {
+    "setup": "\"Honey, go to the store and buy some eggs.\" \"OK.\" \"Oh and while you're there, get some milk.\" He never returned.",
+    "punchline": ""
+  },
+  {
+    "setup": "Why are modern programming languages so materialistic?",
+    "punchline": "Because they are object-oriented."
+  },
+  {
+    "setup": "What is the best prefix for global variables?",
+    "punchline": "//"
+  },
+  {
+    "setup": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+    "punchline": ""
+  },
+  {
+    "setup": "The generation of random numbers is too important to be left to chance.",
+    "punchline": ""
+  },
+  {
+    "setup": "why do python programmers wear glasses?",
+    "punchline": "Because they can't C."
+  },
+  {
+    "setup": "A guy walks into a bar and asks for 1.4 root beers. The bartender says \"I'll have to charge you extra, that's a root beer float\". The guy says \"In that case, better make it a double.\"",
+    "punchline": ""
+  },
+  {
+    "setup": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+    "punchline": ""
+  },
+  {
+    "setup": "What are bits?",
+    "punchline": "Tiny things left when you drop your computer down the stairs."
+  }
+]
