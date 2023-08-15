@@ -41,6 +41,14 @@ To install the required packages, type
 pip install requests websocket-client rel
 ```
 (Note: you need to have Python and pip installed.)
+## ;fix command
+You will need to add your own implementation of ai for the fix command, since i have my own (not openai)
+luckily i was kind enough to give you the prompt too, so not to worry about that lol
+i guess you can like install openai, import it, and then do
+```py
+airesp = openai.Completion.create(model="text-davinci-003", prompt=prompt)
+```
+and yeah the code to be fixed is provided in the prompt ;) 
 ## Env stuff
 I have no idea how dotenv works, but the pypi page probably has it explained. There's a `.env.example` file for seeing what a .env looks like
 
