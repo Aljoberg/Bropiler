@@ -15,12 +15,15 @@ open a pull request ig lol, and dont format the code too much
 > Who all was making this?
 
 Me, me and me. Nobody else really knows the raw api *and* python :(
+
 The ideas? igp people. 
 
 > How did this start?
 
 Basically, the Compiler bot had some issues with nodejs. It got fixed by duro like 2 days later, but by that time I and imagine had already decided to make a custom compiler.
+
 How did i get the idea to use raw api? My first wandbox tests were in python, and i wrote the first two important one-liners for getting the lang and compiling it. Converting it into js seemed kinda meh and so i said, lets make this bad boi in raw api! and so the challenge begun.
+
 Over the time, `;compile` (and `;languages`) streched onto `;template`, sourcebin integrations, ai (`;fix`), and much more.
 
 I've learned a lot through this, and I'm really happy for it lol
@@ -43,7 +46,9 @@ pip install requests websocket-client rel
 (Note: you need to have Python and pip installed.)
 ## ;fix command
 You will need to add your own implementation of ai for the fix command, since i have my own (not openai)
+
 luckily i was kind enough to give you the prompt too, so not to worry about that lol
+
 i guess you can like install openai, import it, and then do
 ```py
 airesp = openai.Completion.create(model="text-davinci-003", prompt=prompt)
@@ -56,12 +61,15 @@ but basically, you need the `HTML_API_KEY` and `TOKEN` entries. The html thingy 
 
 ## Running the script
 Fill in the environment variables or replace them with the values. Idk any dotenv stuff for python btw so google it if you want that
+
 Then, do `python3 main.py` and it should work.
+
 **ALSO**, the script will crash after a few hours. Idk why this happens, probably cuz of the ws randomly getting closed, too lazy to fix it. Just make it run again when stopping like i do. Example, my startup command is
 ```bash
 while true; do python3 main.py; done;
 ```
 If you wanna fix it yourself, good luck!
+
 If it doesnt work, open an issue ig, idk lol
 # Notes
 - it crashes after a while, like already said (put it in a while true loop to fix)
